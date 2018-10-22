@@ -2,4 +2,4 @@
 example of Clean Architecture on Swift
 
 
-[Intro.pdf](https://github.com/kerveros/CleanArchitectureSwift/tree/develop/schema.pdf)
+[See Architecture Schema.pdf](https://github.com/kerveros/CleanArchitectureSwift/tree/develop/schema.pdf)
